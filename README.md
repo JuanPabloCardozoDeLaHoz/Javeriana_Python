@@ -1,2 +1,2 @@
 # Javeriana_Python
-Creado para trabajos y actividades asignadas por la materia de Informática 
+Repositorio creado con la finalidad de almacenar el código de trabajos y actividades asignadas por la materia de Informática.
